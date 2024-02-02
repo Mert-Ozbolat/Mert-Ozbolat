@@ -1,6 +1,6 @@
 ![MasterHead](https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
-- 🌱 I’m currently learning **mobile development.**
+🌱 I’m currently learning mobile development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

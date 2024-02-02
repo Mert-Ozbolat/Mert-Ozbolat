@@ -1,6 +1,6 @@
 ![MasterHead](https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **mobile development.**
 

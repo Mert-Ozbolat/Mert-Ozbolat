@@ -43,8 +43,13 @@ Repo: [Proje repository linki]
 - Twitter: [Twitter profilinizin linki]
 - Blog: [Blog linkiniz]
 
+## Eğlenceli Yılan Oyunu
+
+![snake gif](https://github.com/kullanici-adiniz/kullanici-adiniz/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 > "Kod yazmak, yaratıcı düşünmenin ve problem çözmenin bir yoludur." - [Alıntı Sahibi]
+
 
 

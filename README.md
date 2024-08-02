@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/564x/10/a3/2a/10a32ae93d8681c0fef3ba4902f9b171.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h4 align="center">Hello! I'm Mert, a full-stack developer passionate about creating innovative solutions in the world of software development. With strong communication skills, I excel in team collaborations and love tackling complex problems swiftly and effectively.</h4>
 

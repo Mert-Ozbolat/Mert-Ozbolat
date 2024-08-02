@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mert-Ozbolat.Mert-Ozbolat&left_color=crimson&right_color=darkslategrey"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋, I'm Mert</h1>
 
 ###
@@ -21,7 +15,9 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mert-Ozbolat.Mert-Ozbolat&left_color=crimson&right_color=darkslategrey"  />
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />

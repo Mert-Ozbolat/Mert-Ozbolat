@@ -1,6 +1,6 @@
- [![MasterHead](https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)]
+ [![MasterHead](https://i.pinimg.com/564x/28/6e/89/286e8942cec510196e73b8a7f1b7f88b.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">Hello! I'm Mert, a full-stack developer passionate about creating innovative solutions in the world of software development. With strong communication skills, I excel in team collaborations and love tackling complex problems swiftly and effectively.</h3>
+<h4 align="center">Hello! I'm Mert, a full-stack developer passionate about creating innovative solutions in the world of software development. With strong communication skills, I excel in team collaborations and love tackling complex problems swiftly and effectively.</h4>
 
 - 🔭 I’m currently working on **Web Development**
 

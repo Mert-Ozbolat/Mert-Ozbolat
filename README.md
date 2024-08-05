@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">hey there 👋, I'm Mert</h1>
+<h1 align="center">Hey there 👋, I'm Mert</h1>
 
 ###
 

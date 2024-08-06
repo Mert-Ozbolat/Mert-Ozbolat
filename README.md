@@ -46,10 +46,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mert-Ozbolat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Mert-Ozbolat/Mert-Ozbolat/output/snake.svg" alt="Snake animation" />

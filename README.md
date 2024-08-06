@@ -51,7 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mert-Ozbolat/Mert-Ozbolat/output/snake.svg" alt="Snake animation" />
 
 ###
 

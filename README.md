@@ -54,7 +54,7 @@
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/mert_0zbolat" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
   </a>
 
   <!-- Discord -->

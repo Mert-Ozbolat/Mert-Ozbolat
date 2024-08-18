@@ -42,6 +42,30 @@
 
 ###
 
+
+<!-- Contact Section -->
+<section id="contact" style="text-align: center; margin: 50px 0;">
+  <h2>Contact Me</h2>
+  <p>You can find me on the following platforms:</p>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/your-discord-username" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" />
+  </a>
+</section>
+
+
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###

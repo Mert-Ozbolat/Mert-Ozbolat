@@ -52,9 +52,8 @@
   <a href="https://www.linkedin.com/in/mert-özbolat-208434262/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.instagram.com/mert_0zbolat" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
 

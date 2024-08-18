@@ -49,7 +49,7 @@
   <p>You can find me on the following platforms:</p>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/mert-özbolat-208434262/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 

@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning JavaScript<br><br>🤭 I love learning new things and software<br><br>📫 How to reach me mertozbolat008@gmail.com</p>
+<p align="left">🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning JavaScript<br><br>🤭 I love learning new things and software<br><br>📫 
+ How to reach me <a href="https://accounts.google.com/SignOutOptions?hl=tr&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw">mertozbolat008@gmail.com</a>
 
 ###
 

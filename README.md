@@ -15,7 +15,7 @@
 
 <p align="left">🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning JavaScript<br><br>🤭 I love learning new things and software<br><br>📫 
  How to reach me  <a href="mailto:mertozbolat008@gmail.com">mertozbolat008@gmail.com</a>
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
